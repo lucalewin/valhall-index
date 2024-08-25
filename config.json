@@ -1,0 +1,8 @@
+{
+  "dl": "https://192.168.188.32/api/v1/crates/{crate}/{version}/download",
+  "api": "https://192.168.188.32",
+  "allowed-registries": [
+    "https://github.com/rust-lang/crates.io-index",
+    "https://github.com/lucalewin/valhall-index"
+  ]
+}
