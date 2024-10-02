@@ -1,0 +1,1 @@
+{"name":"third_test","vers":"0.1.0","deps":[{"name":"test_project","req":"^0.4.9","features":[],"optional":false,"default_features":true,"kind":"normal"}],"cksum":"7b0581d5ef42ddbdf81791a44a69d097232d1ace8b9ff52ecec1d4675d21226c","features":{},"yanked":false}
